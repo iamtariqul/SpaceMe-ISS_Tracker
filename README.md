@@ -1,15 +1,7 @@
-# 3D ISS Tracker
+# SpaceMe: International Space Station (ISS) 3D Tracker
 
-## About
-[Web application](https://dengrenhao.github.io/3D_ISS_Tracker/) developed for [the challenge](https://2022.spaceappschallenge.org/challenges/2022-challenges/track-the-iss/details) of [NASA International Space Apps Challenge 2022](https://www.spaceappschallenge.org)
-
----
-
-## [Website](https://dengrenhao.github.io/3D_ISS_Tracker/)
 **Screenshot:**
-![image](https://user-images.githubusercontent.com/42902734/193443478-0cc72d48-802c-4e25-9c54-de51a01e2cf6.png)
-
-
+![ISS](https://user-images.githubusercontent.com/72482679/224536718-dd2ead6b-8641-4eea-ad04-22ef67456700.png)
 ---
 
 ## Feature
@@ -22,7 +14,7 @@
 7.  Double click to **focus** on the ISS.
 8.  The ISS moves all the time.
 
-## [Demo](https://www.youtube.com/watch?v=16DeyFaHy3U)
+## [Demo Video]()
 
 ---
 
@@ -40,21 +32,5 @@
 11. The cap below the ISS is the visible range of the ISS (link-availability).
 12. The white text on the left shows information of the ISS.
 
----
-
-## References
-### Software
-
-- Blender (https://www.blender.org/)
-
-- Web WorldWind.js (https://worldwind.arc.nasa.gov/web/)
-
-### 3D Model Files
-
-- ISS 3D model (https://nasa3d.arc.nasa.gov/detail/iss-6628)
-
 ### Data
-
 - ISS TLE (https://live.ariss.org/tle/)
-
-- Debris TLE (https://www.space-track.org/documentation#/api)
